@@ -9,8 +9,12 @@ The game involves [drifting, drifting and more drifting](https://www.youtube.com
   - sport cars
   - vans
 
-Just pick a car, select a map and go burn those tires to the ground.
+Just pick a car, select a map and go burn those tires to the ground!
 
 ## Technology:
 
 Mania Drifters is developed using Unity game engine.
+
+## Wireframe
+
+We used Figma to give an [overview of the game.](https://www.figma.com/file/MGZqxevfhaA24KB6QMmBXI/Mania-Drift-UI)
