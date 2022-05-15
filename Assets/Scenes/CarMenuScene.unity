@@ -297,7 +297,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 311814955}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &311814955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -507,7 +519,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 801716202}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &801716202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -561,6 +585,7 @@ GameObject:
   - component: {fileID: 860880730}
   - component: {fileID: 860880729}
   - component: {fileID: 860880731}
+  - component: {fileID: 860880732}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -683,6 +708,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &860880731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860880724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 174135d02733cfd458a2274d696f776d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &860880732
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
