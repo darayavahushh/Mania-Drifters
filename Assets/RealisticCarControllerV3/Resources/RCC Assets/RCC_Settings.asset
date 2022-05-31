@@ -17,7 +17,7 @@ MonoBehaviour:
   overrideFPS: 1
   overrideFixedTimeStep: 1
   fixedTimeStep: 0.02
-  maxAngularVelocity: 8
+  maxAngularVelocity: 10
   maxFPS: 60
   useFixedWheelColliders: 1
   lockAndUnlockCursor: 0
@@ -141,7 +141,7 @@ MonoBehaviour:
     forwardExtremumValue: 1
     forwardAsymptoteSlip: 1
     forwardAsymptoteValue: 1
-    sidewaysExtremumSlip: 0.25
+    sidewaysExtremumSlip: 0.5
     sidewaysExtremumValue: 1
     sidewaysAsymptoteSlip: 0.675
     sidewaysAsymptoteValue: 1
@@ -175,9 +175,9 @@ MonoBehaviour:
     antiRollFrontHorizontalMinimum: 7500
     antiRollRearHorizontalMinimum: 7500
     gearShiftingDelayMaximum: 0.1
-    angularDrag: 0.5
-    angularDragHelperMinimum: 0.1
-    angularDragHelperMaximum: 0.25
+    angularDrag: 3
+    angularDragHelperMinimum: 0.3
+    angularDragHelperMaximum: 0.5
     forwardExtremumSlip: 0.2
     forwardExtremumValue: 2
     forwardAsymptoteSlip: 0.2
