@@ -26,7 +26,7 @@ public class AudioManager : MonoBehaviour
     {
         Scene currentScene = SceneManager.GetActiveScene();
 
-        if (currentScene.name == "GameScene")
+        if (currentScene.name == "RCC City")
         {
             // Stops playing music in GameScene scene
             Destroy(gameObject);

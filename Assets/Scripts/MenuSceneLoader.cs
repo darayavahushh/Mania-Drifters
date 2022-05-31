@@ -23,7 +23,7 @@ public class MenuSceneLoader : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("RCC City");
     }
 
 }
