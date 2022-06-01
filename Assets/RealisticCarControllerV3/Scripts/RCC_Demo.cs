@@ -177,8 +177,8 @@ public class RCC_Demo : MonoBehaviour {
 	// Simply quit application. Not working on Editor.
 	public void Quit(){
 
-		Application.Quit();
-
+		//Application.Quit();
+		SceneManager.LoadScene("MainMenuScene");
 	}
 
 }

@@ -16,11 +16,6 @@ public class SettingsManager : MonoBehaviour
         oldSprite = original.sprite;
     }
 
-    void Awake()
-    {
-        Debug.Log(original.sprite);
-    }
-
     public void MuteToggle()
     {
         if (isOriginal == true)

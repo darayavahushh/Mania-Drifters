@@ -242,7 +242,7 @@ MonoBehaviour:
   UIButtonSensitivity: 10
   UIButtonGravity: 10
   gyroSensitivity: 2
-  useLightsAsVertexLights: 0
+  useLightsAsVertexLights: 1
   useLightProjectorForLightingEffect: 0
   setTagsAndLayers: 0
   RCCTag: Player
